@@ -1,5 +1,4 @@
 [ESP8266 Deauther](https://github.com/Encrypter-404/esp8266_deauther)
-[![image](https://github.com/user-attachments/assets/4ae62c63-97d3-45f6-b91b-812c5d9df4f7)](https://camo.githubusercontent.com/4fc7355805be305439e6af350c9497f1d0f92e1f727f34e11ecc35ec54e74950/68747470733a2f2f64656175746865722e636f6d2f696d672f6c6f676f2e706e67)
 
 
 Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners.
